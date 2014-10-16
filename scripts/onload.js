@@ -1,5 +1,5 @@
 
 
-//window.onload=ChangeHTML;
+window.onload=ChangeHTML;
 
-window.onload=duplicate;
+//window.onload=duplicate;
